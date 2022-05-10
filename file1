@@ -2,11 +2,29 @@ first code
 second code
 third code
 fourth code
+<<<<<<< HEAD
 fifth code
 
 seven code
+<<<<<<< HEAD
+=======
+six code
+<<<<<<< HEAD
+>>>>>>> branch2
+=======
 eight
  code
+<<<<<<< HEAD
 10th code
 11th code
+=======
+>>>>>>> branch1
+=======
+ninth code
+
+>>>>>>> branch2
+
+
+12th code
+>>>>>>> master
 
