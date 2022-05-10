@@ -9,8 +9,13 @@ seven code
 <<<<<<< HEAD
 =======
 six code
+<<<<<<< HEAD
 >>>>>>> branch2
 =======
 eight
  code
 >>>>>>> branch1
+=======
+ninth code
+
+>>>>>>> branch2
