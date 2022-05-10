@@ -6,6 +6,11 @@ fourth code
 fifth code
 
 seven code
+<<<<<<< HEAD
 =======
 six code
 >>>>>>> branch2
+=======
+eight
+ code
+>>>>>>> branch1
