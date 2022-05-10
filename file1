@@ -2,6 +2,10 @@ first code
 second code
 third code
 fourth code
+<<<<<<< HEAD
 fifth code
 
 seven code
+=======
+six code
+>>>>>>> branch2
